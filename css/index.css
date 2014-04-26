@@ -1,0 +1,44 @@
+root { 
+    display: block;
+}
+
+#head {
+    background-color: #11866F;
+    height: 40px;
+}
+
+#top_column {
+    position: fixed;
+    right: 10px;
+    color: #FFFFFF;
+}
+
+#body {
+    height: 555px;
+    background-color: #FFFFFF;
+}
+
+#content {
+    margin-left: auto;
+    margin-right: auto;
+    width: 800px;
+}
+
+#foot {
+    color: #FFFFFF;
+}
+
+.title {
+    color: #555555;
+    font-size: 60px;
+    font-weight: 600;
+}
+
+.font {
+    font-weight: 600;
+    color: #007AB3;
+}
+body {
+    font-family: Verdana, Arial, Helv, Helvetica, sans-serif;
+    background-color: #00755E;
+}
